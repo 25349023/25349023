@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hello, I'm Sky 🌵
+
+![25349023's GitHub stats](https://githubstat-25349023.vercel.app/api?username=25349023&show_icons=true&include_all_commits=true&bg_color=222b25DD&theme=merko#gh-dark-mode-only)
+![25349023's GitHub stats](https://githubstat-25349023.vercel.app/api?username=25349023&show_icons=true&theme=flag-india#gh-light-mode-only)
+
+![Top Languages](https://githubstat-25349023.vercel.app/api/top-langs/?username=25349023&layout=compact&hide=jupyter%20notebook&bg_color=222b25DD&theme=merko)
+
+
 
 <!--
 **25349023/25349023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
