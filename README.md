@@ -2,6 +2,8 @@
 
 🚧 Under Construction 🚧
 
+🔽 *Note: The GitHub stats diagrams may not be properly displayed due to a cold start of the stat server.*  🔽
+
 [![25349023's GitHub stats](https://githubstat-25349023.vercel.app/api?username=25349023\&show_icons=true\&theme=flag-india)](https://github.com/25349023#gh-light-mode-only)
 
 [![Top Languages](https://githubstat-25349023.vercel.app/api/top-langs/?username=25349023&layout=compact&hide=jupyter%20notebook&theme=flag-india)](https://github.com/25349023#gh-light-mode-only)
